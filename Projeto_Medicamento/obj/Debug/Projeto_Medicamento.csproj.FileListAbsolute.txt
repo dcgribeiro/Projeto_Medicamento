@@ -1,0 +1,28 @@
+C:\Users\aluno\Desktop\PROJ MEDICAMENTO\projFila2_Medicamento-master\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\bin\Debug\projFila2_Medicamento.exe.config
+C:\Users\aluno\Desktop\PROJ MEDICAMENTO\projFila2_Medicamento-master\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\bin\Debug\projFila2_Medicamento.exe
+C:\Users\aluno\Desktop\PROJ MEDICAMENTO\projFila2_Medicamento-master\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\bin\Debug\projFila2_Medicamento.pdb
+C:\Users\aluno\Desktop\PROJ MEDICAMENTO\projFila2_Medicamento-master\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\obj\Debug\Projeto_Medicamento.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\PROJ MEDICAMENTO\projFila2_Medicamento-master\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\obj\Debug\projFila2_Medicamento.exe
+C:\Users\aluno\Desktop\PROJ MEDICAMENTO\projFila2_Medicamento-master\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\obj\Debug\projFila2_Medicamento.pdb
+C:\Users\aluno\Desktop\PROJ MEDICAMENTO\projFila2_Medicamento-master\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\obj\Debug\Projeto_Medicamento.csprojResolveAssemblyReference.cache
+D:\PROJ MEDICAMENTO\projFila2_Medicamento-master\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\bin\Debug\projFila2_Medicamento.exe.config
+D:\PROJ MEDICAMENTO\projFila2_Medicamento-master\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\bin\Debug\projFila2_Medicamento.exe
+D:\PROJ MEDICAMENTO\projFila2_Medicamento-master\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\bin\Debug\projFila2_Medicamento.pdb
+D:\PROJ MEDICAMENTO\projFila2_Medicamento-master\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\obj\Debug\Projeto_Medicamento.csprojAssemblyReference.cache
+D:\PROJ MEDICAMENTO\projFila2_Medicamento-master\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\obj\Debug\Projeto_Medicamento.csproj.CoreCompileInputs.cache
+D:\PROJ MEDICAMENTO\projFila2_Medicamento-master\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\obj\Debug\projFila2_Medicamento.exe
+D:\PROJ MEDICAMENTO\projFila2_Medicamento-master\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\obj\Debug\projFila2_Medicamento.pdb
+C:\Users\Daniel\Desktop\PROJ MEDICAMENTO\projFila2_Medicamento-master\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\bin\Debug\projFila2_Medicamento.exe.config
+C:\Users\Daniel\Desktop\PROJ MEDICAMENTO\projFila2_Medicamento-master\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\bin\Debug\projFila2_Medicamento.exe
+C:\Users\Daniel\Desktop\PROJ MEDICAMENTO\projFila2_Medicamento-master\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\bin\Debug\projFila2_Medicamento.pdb
+C:\Users\Daniel\Desktop\PROJ MEDICAMENTO\projFila2_Medicamento-master\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\obj\Debug\Projeto_Medicamento.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\PROJ MEDICAMENTO\projFila2_Medicamento-master\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\obj\Debug\Projeto_Medicamento.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\PROJ MEDICAMENTO\projFila2_Medicamento-master\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\obj\Debug\projFila2_Medicamento.exe
+C:\Users\Daniel\Desktop\PROJ MEDICAMENTO\projFila2_Medicamento-master\projFila2_Medicamento-master\projFila2_Medicamento\projFila2_Medicamento\obj\Debug\projFila2_Medicamento.pdb
+E:\projFila2_Medicamento\projFila2_Medicamento\bin\Debug\projFila2_Medicamento.exe.config
+E:\projFila2_Medicamento\projFila2_Medicamento\bin\Debug\projFila2_Medicamento.exe
+E:\projFila2_Medicamento\projFila2_Medicamento\bin\Debug\projFila2_Medicamento.pdb
+E:\projFila2_Medicamento\projFila2_Medicamento\obj\Debug\Projeto_Medicamento.csprojResolveAssemblyReference.cache
+E:\projFila2_Medicamento\projFila2_Medicamento\obj\Debug\Projeto_Medicamento.csproj.CoreCompileInputs.cache
+E:\projFila2_Medicamento\projFila2_Medicamento\obj\Debug\projFila2_Medicamento.exe
+E:\projFila2_Medicamento\projFila2_Medicamento\obj\Debug\projFila2_Medicamento.pdb
